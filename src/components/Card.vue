@@ -8,12 +8,6 @@
   </div>
 </template>
 
-<script setup>
-defineProps({
-  person: Object,
-});
-</script>
-
 <style scoped>
 .card {
   border: 1px solid #ccc;
